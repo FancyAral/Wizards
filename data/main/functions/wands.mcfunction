@@ -1,0 +1,4 @@
+#gives player all wands so far
+give @p minecraft:carrot_on_a_stick{display:{Name:"{\"text\":\"Wand\",\"color\":\"gold\",\"italic\":false}",Lore:["{\"text\":\"click to select a spell!\",\"color\":\"gray\",\"italic\":true}"]},HideFlags:39,Unbreakable:1b,Damage:31,EmptyWand:1b,Enchantments:[{id:"minecraft:mending",lvl:1}]} 1
+give @p minecraft:carrot_on_a_stick{display:{Name:"{\"text\":\"Fireball\",\"color\":\"red\",\"bold\":true,\"italic\":false}",Lore:["{\"text\":\"Summon a fireball\",\"color\":\"gray\",\"italic\":true}"]},HideFlags:39,Unbreakable:1b,Damage:31,FireballWand_a:1b,Enchantments:[{id:"minecraft:mending",lvl:1}]} 1
+give @p minecraft:carrot_on_a_stick{display:{Name:"{\"text\":\"Lightning\",\"color\":\"yellow\",\"bold\":true,\"italic\":false}",Lore:["{\"text\":\"Summon a lightning strike!\",\"color\":\"gray\",\"italic\":true}"]},HideFlags:39,Unbreakable:1b,Damage:31,LightningWand_a:1b,Enchantments:[{id:"minecraft:mending",lvl:1}]} 1
